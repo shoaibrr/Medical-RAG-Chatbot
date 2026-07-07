@@ -1,0 +1,4 @@
+Discharge Summary
+Patient:Sarah Johnson
+Final Diagnosis:Type 2 Diabetes
+Condition: Stable

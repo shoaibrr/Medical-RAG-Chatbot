@@ -1,0 +1,6 @@
+Patient ID: P002
+Patient Name: Emma Wilson
+Doctor: Dr. Emily Carter
+Diagnosis: Hypertension
+Chief Complaint: Sample complaint related to Hypertension.
+Recommendation: Follow medication, hydration, and follow-up after 2 weeks.

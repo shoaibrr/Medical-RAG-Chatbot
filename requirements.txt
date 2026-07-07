@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain-community
+python-dotenv
+pypdf
+unstructured
+python-docx

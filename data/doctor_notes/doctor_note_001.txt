@@ -1,0 +1,6 @@
+Patient ID: P001
+Patient Name: John Smith
+Doctor: Dr. Emily Carter
+Diagnosis: Viral Fever
+Chief Complaint: Sample complaint related to Viral Fever.
+Recommendation: Follow medication, hydration, and follow-up after 2 weeks.

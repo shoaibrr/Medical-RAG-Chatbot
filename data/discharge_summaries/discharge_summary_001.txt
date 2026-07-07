@@ -1,0 +1,4 @@
+Discharge Summary
+Patient:John Smith
+Final Diagnosis:Viral Fever
+Condition: Stable

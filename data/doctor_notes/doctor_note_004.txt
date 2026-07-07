@@ -1,0 +1,6 @@
+Patient ID: P004
+Patient Name: Michael Brown
+Doctor: Dr. Emily Carter
+Diagnosis: Asthma
+Chief Complaint: Sample complaint related to Asthma.
+Recommendation: Follow medication, hydration, and follow-up after 2 weeks.

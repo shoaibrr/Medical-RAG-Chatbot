@@ -1,0 +1,5 @@
+Lab Report
+Patient:Michael Brown
+Diagnosis:Asthma
+Fasting Blood Sugar:175 mg/dL
+HbA1c:7.9%

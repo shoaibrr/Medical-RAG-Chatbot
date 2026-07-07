@@ -1,0 +1,4 @@
+Discharge Summary
+Patient:Olivia Davis
+Final Diagnosis:Pneumonia
+Condition: Stable

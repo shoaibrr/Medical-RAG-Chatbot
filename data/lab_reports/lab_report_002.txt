@@ -1,0 +1,5 @@
+Lab Report
+Patient:Emma Wilson
+Diagnosis:Hypertension
+Fasting Blood Sugar:135 mg/dL
+HbA1c:6.7%

@@ -1,0 +1,6 @@
+Patient ID: P005
+Patient Name: Olivia Davis
+Doctor: Dr. Emily Carter
+Diagnosis: Pneumonia
+Chief Complaint: Sample complaint related to Pneumonia.
+Recommendation: Follow medication, hydration, and follow-up after 2 weeks.

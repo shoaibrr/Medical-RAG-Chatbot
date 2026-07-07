@@ -1,0 +1,6 @@
+Patient ID: P003
+Patient Name: Sarah Johnson
+Doctor: Dr. Emily Carter
+Diagnosis: Type 2 Diabetes
+Chief Complaint: Sample complaint related to Type 2 Diabetes.
+Recommendation: Follow medication, hydration, and follow-up after 2 weeks.
